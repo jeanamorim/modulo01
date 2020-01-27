@@ -7,10 +7,10 @@ exemplo:
 
 - Métodos http (GET, POST, PUT e DELETE)
 - Código de resposta
-  -- 1xx : Information
-  -- 2xx : Sucess
-  -- 3xx : Redirection
-  -- 4xx : Client Error
-  -- 5xx : Server Error
+  - 1xx : Information
+  - 2xx : Sucess
+  - 3xx : Redirection
+  - 4xx : Client Error
+  - 5xx : Server Error
 - Query e Route Params
 - Middlewares
